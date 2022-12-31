@@ -17,5 +17,7 @@ p {
 }
 header {
     background-color: blueviolet;
-    color:white
+    color:white;
+    text-align: center;
+    
 }
