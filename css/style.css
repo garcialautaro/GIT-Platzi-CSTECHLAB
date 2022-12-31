@@ -11,3 +11,7 @@ p {
     color: brown;
     padding: left;
 }
+
+#prueba {
+    border: 1px;
+}
