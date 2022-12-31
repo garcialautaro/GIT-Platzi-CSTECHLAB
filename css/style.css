@@ -11,3 +11,6 @@ p {
     color: brown;
     padding: left;
 }
+header {
+    text-align: left;
+}
