@@ -15,3 +15,7 @@ p {
 #prueba {
     border: 1px;
 }
+header {
+    background-color: blueviolet;
+    color:white
+}
